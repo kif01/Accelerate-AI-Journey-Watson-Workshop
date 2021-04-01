@@ -7,4 +7,6 @@ This repo contains the content for a workshop that shows how to use some of the 
 
 If you are interested in more advanced use cases for Watson Assistant and its integration with Cloud Functions using Webhook check these links:
 - [Going Servelress with Watson Assistant Workshop](https://www.crowdcast.io/e/serverless-chatbots)<br>
+- [Covid-19 News Chatbot](https://www.crowdcast.io/e/covid-19-news-chatbot)
 - [Go serverless in Watson Assistant with IBM Cloud Functions Tutorial](https://developer.ibm.com/tutorials/go-serverless-in-watson-assistant-with-ibm-cloud-function/)<br>
+
